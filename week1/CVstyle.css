@@ -1,0 +1,193 @@
+.headercontainer {
+    background-color: rgba(83, 95, 59, 0.493) ;
+    padding-bottom: 153px ;
+    padding-top: 150px ;
+    padding-left: 20px ;
+    margin-left: 278px ;
+    border-bottom: 2px ridge black ;
+    /* width: 1070px ; */
+    width: 76% ;
+    font-size: 50px ; 
+    text-shadow: 1px 1px 2px rgba(50, 70, 50, 0.63), 0 0 1em black, 0 0 0.2em rgb(11, 48, 15) ;
+    text-align: center ;
+    text-decoration: underline ;
+}
+.photo {
+    width: 253px ;
+    float: left ;
+    background-color: rgba(83, 95, 59, 0.493) ;
+    padding: 12px ;
+    padding-bottom: 12px ;
+    border-bottom: 2px ridge black ;
+    border-right: 2px ridge black ;
+    margin: auto;
+}
+.context-one {
+    background-color: rgba(83, 95, 59, 0.493) ;
+    width: 245px ;
+    font-size: 14px ;
+    font-family: monospace ;
+    padding-bottom: 30px ;
+    padding-top: 20px ;
+    padding-left: 32px;
+    border-right: 2px ridge black ;
+    border-bottom: 1px ridge rgba(0, 0, 0, 0.267) ;
+    line-height: 2.5em ;
+    position: absolute;
+        top: 383px;
+}
+.context-two {
+    background-color: rgba(83, 95, 59, 0.493) ;
+    width: 270px ;
+    font-size: 14px ;
+    font-family: monospace ; 
+    border-right: 2px ridge black ; 
+    margin-top: 235px ;
+    padding-left: 7px;
+    padding-top: 20px ;
+    padding-bottom: 20px ;
+    line-height: 2.5em ;
+    border-bottom: 1px ridge rgba(0, 0, 0, 0.267) ;
+    position: absolute;
+        top: 388px;
+}
+.language {
+    background-color: rgba(83, 95, 59, 0.493) ;
+    width: 270px ;
+    font-size: 14px ;
+    font-family: monospace ; 
+    border-right: 2px ridge black ;
+    border-bottom: 1px ridge rgba(0, 0, 0, 0.267) ;
+    position: absolute;
+        top: 468px;
+    margin-top: 335px ;
+    padding-left: 7px;
+    padding-bottom: 100px ;
+    padding-top: 20px ;
+    line-height: 2.5em ;
+}
+.skills {
+    background-color: rgba(83, 95, 59, 0.493) ;
+    width: 263px ;
+    font-size: 14px ;
+    font-family: monospace ; 
+    border-right: 2px ridge black ;
+    position: absolute;
+        top: 798px;
+    margin-top: 335px ;
+    padding-left: 7px;
+    padding-right: 7px ;
+    padding-bottom: 50px ;
+    padding-top: 20px ;
+    line-height: 2.5em ;
+}
+.profile {
+    position: absolute ;
+      top: 405px ;
+      left: 310px ;
+    color: rgba(35, 35, 107, 0.87) ;
+    font-family: sans-serif ;
+}
+.bodycontext {
+    padding-right: 40px ;
+    position: absolute ;
+      top: 440px ;
+      left: 310px ;
+    line-height: 2em ;
+    font-family: sans-serif ;
+}
+.work-experience {
+    position: absolute ;
+      top: 580px ;
+      left: 310px ;
+    color: rgba(35, 35, 107, 0.87) ;
+    font-family: sans-serif ;
+}
+.bodycontext-2 {
+    padding-right: 40px ;
+    position: absolute ;
+      top: 615px ;
+      left: 310px ;
+    line-height: 2em ;
+    font-family: sans-serif ;
+}
+.education {
+    position: absolute ;
+      top: 810px ;
+      left: 310px ;
+    color: rgba(35, 35, 107, 0.87) ;
+    font-family: sans-serif ;
+}
+.bodycontext-3 {
+    padding-right: 40px ;
+    position: absolute ;
+      top: 850px ;
+      left: 310px ;
+    line-height: 2em ;
+    font-family: sans-serif ;
+}
+.additional {
+    position: absolute ;
+      top: 980px ;
+      left: 310px ;
+    color: rgba(35, 35, 107, 0.87) ;
+    font-family: sans-serif ;
+}
+.bodycontext-4 {
+    padding-right: 40px ;
+    position: absolute ;
+      top: 1020px ;
+      left: 310px ;
+    line-height: 2em ;
+    font-family: sans-serif ;
+}
+.hobbies {
+    position: absolute ;
+      top: 1230px ;
+      left: 310px ;
+    color: rgba(35, 35, 107, 0.87) ;
+    font-family: sans-serif ;
+}
+.bodycontext-5 {
+    padding-right: 40px ;
+    position: absolute ;
+      top: 1270px ;
+      left: 310px ;
+    line-height: 2em ;
+    font-family: sans-serif ;
+}
+.footer {
+    background-color: rgba(175, 173, 173, 0.918) ;
+    position: absolute ;
+      top: 1483px ;
+    padding: 30px ;
+    border-top: 1px ridge rgba(0, 0, 0, 0.267) ;
+    border-bottom: 2px ridge black ;
+    width: 90% ;
+    text-align: right ;
+    font-family: sans-serif ;
+}
+.telephone {
+    position: absolute ;
+      top: 497px ;
+    width: 15px ;
+    padding-left: 7px ;
+}
+.email {
+    position: absolute ;
+       top: 428px ;
+    width: 15px ;
+    padding-left: 7px ;
+}
+.address {
+    position: absolute ;
+        top: 532px ;
+    width: 15px ;
+    padding-left: 7px ;
+}
+.linkedin {
+    position: absolute ;
+        top: 567px ;
+    width: 15px ;
+    padding-left: 7px ;
+}
